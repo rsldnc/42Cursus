@@ -7,3 +7,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/rsldnc/42Cursus-get_next_line.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/rsldnc/42Cursus-minitalk.git
