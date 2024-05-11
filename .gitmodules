@@ -10,3 +10,6 @@
 [submodule "minitalk"]
 	path = minitalk
 	url = https://github.com/rsldnc/42Cursus-minitalk.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/rsldnc/42Cursus-push_swap.git
